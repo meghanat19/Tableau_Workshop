@@ -1,3 +1,3 @@
 # Tableau_Workshop
-Tableau Workshop
-Data Set and Images for DSI Tableau Workshop 
+State Data Set and Images for DSI Tableau Workshop 
+
